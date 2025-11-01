@@ -146,6 +146,15 @@ Again, proceed to Ubuntu installation
 -	You’ll be directed to official kali website”kali.org/get-kali/#kali-platforms”
 -	Select “Installer Image(less file size)” or virtual machine image”(big file size)”
 -	Next, click “Installer Image” to download the file then save into local system
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/5ca4e6d6-17ec-4610-85fd-99422270c099" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/dfd04de9-e444-46de-a13b-1b4d175ead8d" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/b81f6039-b782-485f-a894-ab1fd91b99f1" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/e4144112-eb4f-40f0-b4be-790dc9476a8a" />
+<img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/686a8eee-7227-4434-a162-8397ae17ed6f" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/c49ccf25-ca9d-45ee-8516-3e94cd8f31db" />
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/156d15f2-c40a-47e0-a606-c627f48afa20" />
+
+
 
 
 **3.2 Linux OS (Kali) Installations guides** <br>
@@ -206,12 +215,20 @@ Again, proceed to Ubuntu installation
 -	Finally, wait to finish the installation process, then click “continue” to reboot it
 -	Will take 3-5 minutes to appear login interface. Then use your credentials to log-in into Kali virtual OS.
 
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/3b38132c-6f65-4645-a5fb-b24c6308ae10" />
 
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/a18ec23a-e815-458d-b9b9-2189304339a3" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/b9c8a7fb-85c8-49d5-8b13-50657e4da110" />
 
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/c7a86166-50bf-49eb-9ab5-492b3fced953" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/db05c34d-b753-4a05-9ec8-51e893208640" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/167c86c5-1e4c-47cf-be36-cb630b6b3a0f" />
 
 - Congratulations 🎉🎊👏, you have successfully logged into Kali virtual Operating System. 
 
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/fdf92f2c-00e2-47e5-a468-9ef8dc1fc8d6" />
 
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4f577be3-ee77-463f-baf6-a00b1d94c48c" />
 
 
 ## 
