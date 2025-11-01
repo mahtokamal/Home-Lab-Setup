@@ -97,7 +97,102 @@
 <img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/7db3a2a8-aa99-4a3b-9d3a-b68ab0a8c00e" />
 
 **2.2 Linux OS (Ubuntu) Installations guides** <br>
-Again, proceed to Ubuntu installation
+- Goto Ubuntu VM, “Start”, “Try or Install Ubuntu”
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/b85582a8-b42d-42ee-aa62-f0bb85b3aa7b" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/0e281705-d721-416a-853b-1c71b1434cf0" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/66b4c988-9acb-4477-9f8f-1ff5f80a9c78" />
+
+- If you encounter an error mentioned below, just follow the steps to fix it.
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/8fbbbb2c-3418-47e0-9751-fa9803de6d38" />
+
+- Exit installations and come back to ubuntu virtual machine, “settings”,
+- Navigate to “Display tab”, change graphics controller to “VBoxSVGA or VBoxVGA”, video memory “60-70 MB” then “OK”. After installations, you can change it later.
+
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/0e0e94c8-16cb-4a63-bb25-bd8ca106dabf" />
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/c04d815f-fe02-4639-b61a-1222d6429fe8" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/c0733b49-3216-48d5-b89f-29c6ee6d7e7c" />
+
+-	Now, let’s continue to our installation process, after fixing the errors, start ubuntu VM again, choose “Try or Install Ubuntu”, this time it would continue for next steps without any interruptions or errors.
+
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/0779cf71-1b28-4078-8049-36af37c6e4f3" />
+
+-	Choose language “English”, “Next”, “Keyboard Layout”, ”Next”, again “Next”
+
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/6874f304-ac4d-4a15-99dd-170de264426b" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/c06e3232-32e9-4854-9615-fb416155a80b" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/b88dffd3-7d23-4924-bcb6-ba92a8f1186f" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/004737e9-c99a-4d3c-8e29-3b9e5e6b18f6" />
+
+-	Now, select “Install Ubuntu”, “Interactive Installations”, “Next”,”default selections”,”Next”, ”Install third-party software”, then “Next”,
+
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/f88c8a41-bb9b-4f97-9cd2-e7709cab1926" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/e7c7f8d9-2bce-475c-a10b-d8e208611020" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/6396f48a-ddbe-4c8a-9df3-ab5332b1334c" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/463907f8-ebd3-45ca-9ca1-8d0193382fa4" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/2c62b07d-bdd7-4843-bd00-0f29dfd38440" />
+
+-	Choose “erase disk and install ubuntu”, “Next”
+-	Create account and enter your credential and goto “Next”, location “India”
+-	Review your choices, “Next”, “Install”
+-	Wait to let the installation complete, “Restart Now”
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/66e4de88-1b0f-4cba-9ada-77ad3c03b1ef" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/d93bcab8-2518-4fac-96d6-009a99cacfdc" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/62246418-c277-41ab-bc7e-35bdab29ff14" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/8ca86d38-9f15-4e73-b486-afaa9895bfd0" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/3aaa1cb1-730c-402d-8bfd-2c2aceb2add3" />
+
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/b83ea54d-5cea-4f2e-b755-355cdabe7817" />
+
+ <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/b3f3bffd-9f0d-478e-ac5e-7e4d57959b57" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/709fcf79-5cf2-4592-93ef-1927381d2af9" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/6a26a24c-41d3-4c11-840b-a24a8c0a09ce" />
+
+-	Login with created user account and password
+-	Welcome Ubuntu Interface ”Next”, “Skip”, “Finish”
+
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/959e7fcf-4be8-4d8f-9670-88c472f317ad" />
+
+<img width="975" height="495" alt="image" src="https://github.com/user-attachments/assets/e3a51cd6-9188-4c18-98b1-da66d69e5cb7" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/37ca110f-f283-4afb-8c0b-157f5b320981" />
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/2f433565-53c8-4730-a1b1-87098793bf1d" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/ed535acd-b7c1-48a8-bc3d-f8a3fd118b34" />
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/93782bbf-d70a-499d-b26c-4292827e077b" />
+
+
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/4d2cc4ac-b49a-4c7d-82de-c78ad6e41502" />
+
+-	Goto app center to have a look for daily-life software & utilities options
+-	Search terminal, drag & drop and pinned it to the side panel
+
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/db2d691b-7396-4f49-87e1-59315332146a" />
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/9d0232a8-f471-4f76-997a-1d2b13ea8fea" />
+<img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/d491b410-7d1a-4516-919d-1ba165e3bb95" />
+
+-	Open terminal,
+-	Sudo -i (enter password)
+
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/08fb6b8c-bf65-46ff-b354-7ab77268b9b4" />
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/5c557b09-326a-47e1-a1fc-cb5f06914c92" />
+
+-	Apt update && apt full-upgrade
+-	Do you want to continue “yes”
+
+<img width="975" height="366" alt="image" src="https://github.com/user-attachments/assets/484af0dd-9376-478f-b182-1fce7d1ef6e7" />
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/f72aa466-2956-45be-9fcd-7e25724846de" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/f64c495c-5adb-4fc7-ae8b-48b3109fd441" />
+
+
+-	Cat /etc/os-release
+
+<img width="975" height="549" alt="image" src="https://github.com/user-attachments/assets/c3d5e0a0-85b9-4dd4-ac2e-97903f7a94a5" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/60d93c80-66b9-48c3-a4cc-6fd87b6fd422" />
+
+-	Apt autoclean
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/93286023-6754-4262-ae65-2e7f4d5cba46" />
+<img width="975" height="540" alt="image" src="https://github.com/user-attachments/assets/7ead716a-12fd-491a-ab30-2fc1cc72f445" />
+<img width="975" height="539" alt="image" src="https://github.com/user-attachments/assets/435e18ae-a4f2-4a6a-b7fb-31b76f637f58" />
 
 
 ## 3. Kali Linux Virtual OS setup
