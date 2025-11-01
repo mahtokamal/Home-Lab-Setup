@@ -150,26 +150,26 @@ Again, proceed to Ubuntu installation
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/c9731bda-e442-4b4e-9544-70230de638f4" />
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/63e25b05-663a-4b3f-a6d5-1c7e9357aaca" />
 
-•	If black screen appears for very long time, better reduce the video memory and make it between 60-70 MB, after installations you can again assign 128 MB.
-•	Choose language “English” and “Continue”, Location “India”, Keyboard configurations “American English”
-•	Wait for next steps, will be done automatically
+-	If black screen appears for very long time, better reduce the video memory and make it between 60-70 MB, after installations you can again assign 128 MB.
+-	Choose language “English” and “Continue”, Location “India”, Keyboard configurations “American English”
+-	Wait for next steps, will be done automatically
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/cff357a9-dc17-4184-a670-5342db2fc12f" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/37dd5c06-ba2a-4271-8e9e-bab1631a4b12" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/5bacc5e7-61d1-4990-8a9e-a582a198f058" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/ebb8c998-3f74-475d-ada3-359bb6073692" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/754763ed-98ba-4e38-b129-d43c6d2b7072" />
 
-•	When encountered “Network autoconfiguration Failed”, hit “continue” and just follow steps carefully
+-	When encountered “Network autoconfiguration Failed”, hit “continue” and just follow steps carefully
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/464a1dbf-1588-4f95-a9a5-18920a3f320d" />
-•	Goto Kali Virtual Machine and click on “Settings” not on “start(it was mistake in the screenshots below)”
-•	Next, Network tab and change adapter settings from “Bridged Adapter” to “NAT” and leave adapter type as default settings then “OK”.
+-	Goto Kali Virtual Machine and click on “Settings” not on “start(it was mistake in the screenshots below)”
+-	Next, Network tab and change adapter settings from “Bridged Adapter” to “NAT” and leave adapter type as default settings then “OK”.
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/f1f01b89-ab5b-4157-9afb-ea9ddb2aaf98" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/daa65bcd-aa3d-4a7c-9baf-3f44c62f6126" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/0b599f0c-eba0-44e8-bf39-b1e2c4d74534" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/2b0292d3-b6c4-4243-a77c-9a137fc82d8a" />
-•	now come back to “configure the network”, click “continue” and wait it to let the configurations done automatically
-•	proceed to hostname “kali”, configure the network just click continue “required domain for this ” and skip it.
-•	Then setup users and password and hit “continue”
+-	now come back to “configure the network”, click “continue” and wait it to let the configurations done automatically
+-	proceed to hostname “kali”, configure the network just click continue “required domain for this ” and skip it.
+-	Then setup users and password and hit “continue”
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/a2ad6548-e6b5-47be-9cc2-217ace3b6f68" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/e504d807-6274-4439-a841-0696086167bc" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/2049e26e-67fb-42f0-806e-4e512a3b2c42" />
@@ -177,7 +177,7 @@ Again, proceed to Ubuntu installation
 <img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/39030ede-9d77-4547-8c0c-56351dc7fb36" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/8d40c03f-c588-496d-9f01-bf0d7ab01ccd" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/91449212-fac7-4a0c-bded-4f4fa0626d8b" />
-•	Now, wait for “detect disks”, select partition disks “Guided-use entire disk”, “continue”, “SCSI partitions”, ”continue”, “all files in one partitions (recommended for new users) ”, “finish partitioning and write changes to disk”, “continue”, yes ”continue”.
+-	Now, wait for “detect disks”, select partition disks “Guided-use entire disk”, “continue”, “SCSI partitions”, ”continue”, “all files in one partitions (recommended for new users) ”, “finish partitioning and write changes to disk”, “continue”, yes ”continue”.
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/c1520ff4-b94d-4466-b527-c1a6fdd06356" />
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/3a14ee0b-7adf-434d-af06-f51462dc02eb" />
 <img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/beb37cdd-ac89-4cbb-bd47-1eaf68114ccb" />
@@ -186,18 +186,18 @@ Again, proceed to Ubuntu installation
 <img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/2569094f-0baf-42b1-b620-160f575c24a6" />
 <img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/8c00b944-d281-4d3d-86e2-1eab0e2d85c1" />
 
-•	Just wait for partition disks to finish it up
-•	Keep desktop environment by default and “continue” and again wait for finishing important settings done automatically
-•	Click “yes” to select GRUB bootloader
-•	Select GRUB bootloader /dev/sda and wait till “GRUB bootloader finish installations”
+-	Just wait for partition disks to finish it up
+-	Keep desktop environment by default and “continue” and again wait for finishing important settings done automatically
+-	Click “yes” to select GRUB bootloader
+-	Select GRUB bootloader /dev/sda and wait till “GRUB bootloader finish installations”
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/9bfd5301-520e-4259-a397-4545c56bafb4" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/39a609f2-1d81-4f82-8c59-76ee00cd8579" />
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/75973bf2-440f-4603-b225-dad7ac7b4c85" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/3541e42d-207e-4d0a-af46-6e11604fd75f" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/b152d4e6-9fcb-45b2-ab81-222af8608f3d" />
-•	Finally, wait to finish the installation process, then click “continue” to reboot it
-•	Will take 3-5 minutes to appear login interface. Then use your credentials to log-in into Kali virtual OS.
 
+-	Finally, wait to finish the installation process, then click “continue” to reboot it
+-	Will take 3-5 minutes to appear login interface. Then use your credentials to log-in into Kali virtual OS.
 
 
 
