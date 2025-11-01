@@ -142,6 +142,13 @@ Again, proceed to Ubuntu installation
 
 
 **3.1 How to downlaod Linux OS (Kali)** <br>
+-	To download Kali Linux Operation System (OS), visit google search and write ”kali linux download” and click on”Get Kali”
+-	You’ll be directed to official kali website”kali.org/get-kali/#kali-platforms”
+-	Select “Installer Image(less file size)” or virtual machine image”(big file size)”
+-	Next, click “Installer Image” to download the file then save into local system
+
+
+**3.2 Linux OS (Kali) Installations guides** <br>
 **To install Kali as virtual OS in VirtualBox virtual machine, follow each steps carefully:** <br> 
 - Choose Kali virtual machine, select start (a kali GUI pop-up menu appear)
 - Click “Graphical Install”
@@ -202,15 +209,10 @@ Again, proceed to Ubuntu installation
 
 
 
+- Congratulations 🎉🎊👏, you have successfully logged into Kali virtual Operating System. 
 
 
 
-
-
-
-
-
-**3.2 Linux OS (Kali) Installations guides** <br>
 
 ## 
 
