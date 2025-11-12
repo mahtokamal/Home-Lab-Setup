@@ -3,25 +3,34 @@
 ## 1. Download & Installation of Virtual Machine in Windows environment
 **1.0 How to downlaod Virutal Machine (Oracle VirutalBox, Vmware)** <br>
 **To download Virtual Machine**<br>
+
 - Visit google.com and search virtualbox then click on downloads
 - It will open virtual box download page where you can see and download virtual box for various OS platforms
 - Now select, Windows hosts(as per you OS platform), save it and just wait to finish the download.
 - Now, we need to download “Virtual Box Extension packs” as well that let you help to customize the settings better. Next, click on “Accept and download” and save it, then wait to finish the download.
-- 
+
 <img width="975" height="430" alt="image" src="https://github.com/user-attachments/assets/abc64961-0dc1-4163-a4cf-dd85422e665b" />
+
 <img width="975" height="476" alt="image" src="https://github.com/user-attachments/assets/bb8a775b-7931-4d45-822c-750b5af986ba" />
+
 <img width="975" height="484" alt="image" src="https://github.com/user-attachments/assets/811426d6-224e-4ca6-ab98-8b551f59a962" />
+
 <img width="975" height="725" alt="image" src="https://github.com/user-attachments/assets/c95738e4-b9e7-4bb0-b2d9-a0731856ac3f" />
+
 <img width="975" height="491" alt="image" src="https://github.com/user-attachments/assets/e5f8a54b-b4dd-4ecb-b89d-d42ced52899a" />
+
 <img width="975" height="736" alt="image" src="https://github.com/user-attachments/assets/8b9299ba-a6e2-44af-8a3c-f71eda490610" />
 
 **How to install Oracle VirtualBox**<br>
+
 - Now double click on “virtual box setup file” then hit “Yes” , “Next”
 - Accept the license agreement, “Next”
 - Browse and select your desired drive to install virtual machine “E:\” and make a new folder inside that drive “VirtualBox”, where all the installed file of virtualbox will be available.
 - Next, if pop-up about warning message of network change just click “Yes”
 - Click “Next”, then “Install” and wait for setting to finish it up completely
 - In the end, click “Finish” and Oracle VirtualBox Manager will automatically open.
+
+
 <img width="975" height="374" alt="image" src="https://github.com/user-attachments/assets/1296d9a7-6496-4887-bb58-60fddeb56539" />
 <img width="975" height="764" alt="image" src="https://github.com/user-attachments/assets/8a815f30-e6f1-4a59-a726-d72693fbb3ac" />
 <img width="975" height="766" alt="image" src="https://github.com/user-attachments/assets/029af34c-845c-424c-90bc-cc0fcd49908e" />
@@ -43,7 +52,9 @@
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/708399f9-ee59-4478-b645-3a42255f6028" />
 
 **How to install VirtualBox Extension Pack**<br>
+
 - To install oracle virtualbox extensions,	double click on extension file, “install”, then, “I Agree”
+
 <img width="975" height="363" alt="image" src="https://github.com/user-attachments/assets/e2836135-ff3f-479c-812b-395b88242dd4" />
 <img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/2966e598-6cea-4e20-8772-c31b0e245bcc" />
 <img width="975" height="775" alt="image" src="https://github.com/user-attachments/assets/80ed651e-ae8d-4137-8c4c-d6fed05c5bd8" />
@@ -53,6 +64,7 @@
 ## 2. Ubuntu Virtual OS setup
 
 **2.0 Virtual OS Setup (Ubuntu)** <br>
+
 - To install a new virtual OS, first we need to setup the virtual machine for Ubuntu
 - Click on “new”
 - Name “Ubuntu”, select desired location or drive(E:\) and make new folder “VM-Ubuntu”
@@ -66,6 +78,7 @@
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/8a95755c-ec45-4f16-9ebb-0b33ea223f0a" />
 
 **Harware Configurations setup** <br>
+
 - Now, we need to do Hardware setup, if you are unsure, goto, task manager to view available resource for your system.
 - Click on “performances”,
 - Select 4GB ram “base memory” and 2-3 cores “CPU” try to stay within green zone
@@ -97,7 +110,9 @@
 <img width="975" height="731" alt="image" src="https://github.com/user-attachments/assets/7db3a2a8-aa99-4a3b-9d3a-b68ab0a8c00e" />
 
 **2.2 Linux OS (Ubuntu) Installations guides** <br>
+
 - Goto Ubuntu VM, “Start”, “Try or Install Ubuntu”
+
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/b85582a8-b42d-42ee-aa62-f0bb85b3aa7b" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/0e281705-d721-416a-853b-1c71b1434cf0" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/66b4c988-9acb-4477-9f8f-1ff5f80a9c78" />
@@ -197,6 +212,7 @@
 
 ## 3. Kali Linux Virtual OS setup
 **3.0 Virtual OS Setup (Kali)** <br>
+
 -	After installing virtual machine “VirtualBox”
 -	Click on “create a new virtual machine VM” or “New”
 
@@ -216,6 +232,7 @@
 - Click on kali VM, then settings (for additional setup)
 - In genera tab, click on features and select Clipboard and drag-n-drop to “Bidirectional”
 - Display tab, video memory “60-70 MB” and number of virtual monitors count “3”
+
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/4f301dea-9c1e-4766-abad-98880c78842e" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/8be5e111-4bce-46e5-97d3-f268e3aeb51a" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/c0e4bd69-80e3-4a0d-bcac-a3db7404f160" />
@@ -224,6 +241,7 @@
 
 
 - Storage tab, controller IDE, click on empty
+
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/9de3c006-db44-4599-aeac-8873f3a4001c" />
 - Click on small disk icon, choose a disk file and select kali-linux disk file, which you already downloaded and open it.
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/391b89de-7f9a-45ab-9d4c-68d02aad37a1" />
@@ -232,15 +250,18 @@
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/f829b993-4e07-4bae-815f-a2dd1a2558fc" />
 
 - Goto Network tab, enable network adapter and changed it to “Bridged Adapter” then “OK”
+
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/45bc3143-710a-476d-9b14-36a698c01d28" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/989f2369-15c5-42b8-af3a-d828fcda155b" />
 
 
 **3.1 How to downlaod Linux OS (Kali)** <br>
+
 -	To download Kali Linux Operation System (OS), visit google search and write ”kali linux download” and click on”Get Kali”
 -	You’ll be directed to official kali website”kali.org/get-kali/#kali-platforms”
 -	Select “Installer Image(less file size)” or virtual machine image”(big file size)”
 -	Next, click “Installer Image” to download the file then save into local system
+
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/5ca4e6d6-17ec-4610-85fd-99422270c099" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/dfd04de9-e444-46de-a13b-1b4d175ead8d" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/b81f6039-b782-485f-a894-ab1fd91b99f1" />
@@ -253,9 +274,11 @@
 
 
 **3.2 Linux OS (Kali) Installations guides** <br>
-**To install Kali as virtual OS in VirtualBox virtual machine, follow each steps carefully:** <br> 
+**To install Kali as virtual OS in VirtualBox virtual machine, follow each steps carefully:** <br>
+
 - Choose Kali virtual machine, select start (a kali GUI pop-up menu appear)
 - Click “Graphical Install”
+
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/58d59f63-e565-4ae8-91f6-21eda4597225" />
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/c635d00b-f41c-4628-835e-4205e37094f7" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/c9731bda-e442-4b4e-9544-70230de638f4" />
@@ -264,6 +287,7 @@
 -	If black screen appears for very long time, better reduce the video memory and make it between 60-70 MB, after installations you can again assign 128 MB.
 -	Choose language “English” and “Continue”, Location “India”, Keyboard configurations “American English”
 -	Wait for next steps, will be done automatically
+
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/cff357a9-dc17-4184-a670-5342db2fc12f" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/37dd5c06-ba2a-4271-8e9e-bab1631a4b12" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/5bacc5e7-61d1-4990-8a9e-a582a198f058" />
@@ -271,16 +295,21 @@
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/754763ed-98ba-4e38-b129-d43c6d2b7072" />
 
 -	When encountered “Network autoconfiguration Failed”, hit “continue” and just follow steps carefully
+
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/464a1dbf-1588-4f95-a9a5-18920a3f320d" />
+
 -	Goto Kali Virtual Machine and click on “Settings” not on “start(it was mistake in the screenshots below)”
 -	Next, Network tab and change adapter settings from “Bridged Adapter” to “NAT” and leave adapter type as default settings then “OK”.
+
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/f1f01b89-ab5b-4157-9afb-ea9ddb2aaf98" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/daa65bcd-aa3d-4a7c-9baf-3f44c62f6126" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/0b599f0c-eba0-44e8-bf39-b1e2c4d74534" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/2b0292d3-b6c4-4243-a77c-9a137fc82d8a" />
+
 -	now come back to “configure the network”, click “continue” and wait it to let the configurations done automatically
 -	proceed to hostname “kali”, configure the network just click continue “required domain for this ” and skip it.
 -	Then setup users and password and hit “continue”
+
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/a2ad6548-e6b5-47be-9cc2-217ace3b6f68" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/e504d807-6274-4439-a841-0696086167bc" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/2049e26e-67fb-42f0-806e-4e512a3b2c42" />
@@ -288,7 +317,9 @@
 <img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/39030ede-9d77-4547-8c0c-56351dc7fb36" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/8d40c03f-c588-496d-9f01-bf0d7ab01ccd" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/91449212-fac7-4a0c-bded-4f4fa0626d8b" />
+
 -	Now, wait for “detect disks”, select partition disks “Guided-use entire disk”, “continue”, “SCSI partitions”, ”continue”, “all files in one partitions (recommended for new users) ”, “finish partitioning and write changes to disk”, “continue”, yes ”continue”.
+
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/c1520ff4-b94d-4466-b527-c1a6fdd06356" />
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/3a14ee0b-7adf-434d-af06-f51462dc02eb" />
 <img width="975" height="505" alt="image" src="https://github.com/user-attachments/assets/beb37cdd-ac89-4cbb-bd47-1eaf68114ccb" />
@@ -301,6 +332,7 @@
 -	Keep desktop environment by default and “continue” and again wait for finishing important settings done automatically
 -	Click “yes” to select GRUB bootloader
 -	Select GRUB bootloader /dev/sda and wait till “GRUB bootloader finish installations”
+
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/9bfd5301-520e-4259-a397-4545c56bafb4" />
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/39a609f2-1d81-4f82-8c59-76ee00cd8579" />
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/75973bf2-440f-4603-b225-dad7ac7b4c85" />
@@ -329,6 +361,7 @@
 ## 4. VMware virtual machine downloading & installations
 
 **4.0 How to download Vmware into Windows OS?** <br>
+
 -	Goto google search type “download vmware”, take you to the official site and click on Fusion and Workstation.
 -	As of march 2025, Vmware has changed a lot(you can read it from websites) [FAQs](https://www.vmware.com/docs/desktop-hypervisor-faqs)
 -	VMware Fusion Pro (Mac OS) and Workstation Pro (Windows, Linux) are available to use without any charges; hence you don’t require license to purchase and will be continuously getting security updates and features.
@@ -340,6 +373,7 @@
 -	Click on “LOGIN”(dropdown menu will appear choose “REGISTER”), if already created account just enter email and proceed for login.
 -	Enter email address, fill captcha questions, “Next”, verify email address with security codes.
 -	“Verify&Continues”
+
 <img width="975" height="474" alt="image" src="https://github.com/user-attachments/assets/24500cee-72b7-4ea6-8053-a98eca593352" />
 <img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/5356f8de-d5ed-49eb-802b-2f057b3dc723" />
 <img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/1e456328-9332-4f4f-be72-f8c8036563ae" />
@@ -349,6 +383,7 @@
 
 -	Enter your basic details such as name, country, password, accept Terms conditions, “Create Account”, prompt “Registration successfully!” appears
 -	If interested you can unlock additional services, otherwise “I’ll do it later”
+
 <img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/594892b3-564f-4307-adf1-08ed2cb881a0" />
 <img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/a397df33-a585-4749-87ba-c74cbd44a575" />
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/c41f316f-c27b-4414-9f5c-1a231d6d392c" />
@@ -357,6 +392,7 @@
 -	After user registration completion, click “login”, enter credentials “sign-in”
 -	Profile dashboard, “My downloads”, follow download hyperlinks as shown below in the pictures (free software downloads available here)
 -	Scrolled down, select “VMware workstation Pro”
+
 <img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/01028a1e-f04f-4636-af01-0186cbe234d5" />
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/8105d9fd-f70b-4318-8f6e-9623924dddb8" />
 <img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/babf11e9-8d49-47fe-b049-4b2c00d8901c" />
@@ -369,6 +405,7 @@
 -	Click download button (additional verification details required before downloading the software”yes”, just fill it), “agree” and “submit”
 -	Again redirect to download button, just hit it and you software is being downloaded, verify it from download history.
 -	Congratulation, we have downloaded the VMware software.
+
 <img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/50a198b9-92df-4650-a334-e72a00f9f2c8" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/27f698dd-1b7e-4c34-b0e5-25bd71a89c0c" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/382d9b9f-c757-4bb6-9efc-3ea448c513cf" />
@@ -380,6 +417,7 @@
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/489ad143-8689-4245-bbfa-6e51ff696f9f" />
 
 **4.1 VMware Installation steps:** <br>
+
 -	Double click on VMware setup (a pop windows appears, just click on “Yes”)
 -	Hit “Next”, accept license agreement, “Next”, again “Next”
 -	In custom setup, we will change the default installation locations, create a new folder within E:\ drive(vmware), Next then OK
