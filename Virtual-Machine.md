@@ -326,6 +326,126 @@
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4f577be3-ee77-463f-baf6-a00b1d94c48c" />
 
 
-## 
+## 4. VMware virtual machine downloading & installations
+
+**4.0 How to download Vmware into Windows OS?** <br>
+-	Goto google search type “download vmware”, take you to the official site and click on Fusion and Workstation.
+-	As of march 2025, Vmware has changed a lot(you can read it from websites) [FAQs](https://www.vmware.com/docs/desktop-hypervisor-faqs)
+-	VMware Fusion Pro (Mac OS) and Workstation Pro (Windows, Linux) are available to use without any charges; hence you don’t require license to purchase and will be continuously getting security updates and features.
+
+<img width="975" height="430" alt="image" src="https://github.com/user-attachments/assets/34386020-a59f-4da4-8732-624b3ba9e222" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/b220b64f-8a70-4002-b3df-788b193bb890" />
+
+-	Select VMware Workstation Pro for PC, then “download now” (redirects to the Broadcom website for further download steps)
+-	Click on “LOGIN”(dropdown menu will appear choose “REGISTER”), if already created account just enter email and proceed for login.
+-	Enter email address, fill captcha questions, “Next”, verify email address with security codes.
+-	“Verify&Continues”
+<img width="975" height="474" alt="image" src="https://github.com/user-attachments/assets/24500cee-72b7-4ea6-8053-a98eca593352" />
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/5356f8de-d5ed-49eb-802b-2f057b3dc723" />
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/1e456328-9332-4f4f-be72-f8c8036563ae" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/46b8b590-cc7f-48f0-bcad-3ed4fad12a0f" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/e18c327c-a783-4244-86b2-7639dcb96a41" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/80034e4f-c944-4a82-a3ea-dcec008ae8cc" />
+
+-	Enter your basic details such as name, country, password, accept Terms conditions, “Create Account”, prompt “Registration successfully!” appears
+-	If interested you can unlock additional services, otherwise “I’ll do it later”
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/594892b3-564f-4307-adf1-08ed2cb881a0" />
+<img width="975" height="506" alt="image" src="https://github.com/user-attachments/assets/a397df33-a585-4749-87ba-c74cbd44a575" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/c41f316f-c27b-4414-9f5c-1a231d6d392c" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/1d99a068-054c-46f7-bc3b-2215a67af7d0" />
+
+-	After user registration completion, click “login”, enter credentials “sign-in”
+-	Profile dashboard, “My downloads”, follow download hyperlinks as shown below in the pictures (free software downloads available here)
+-	Scrolled down, select “VMware workstation Pro”
+<img width="975" height="504" alt="image" src="https://github.com/user-attachments/assets/01028a1e-f04f-4636-af01-0186cbe234d5" />
+<img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/8105d9fd-f70b-4318-8f6e-9623924dddb8" />
+<img width="975" height="509" alt="image" src="https://github.com/user-attachments/assets/babf11e9-8d49-47fe-b049-4b2c00d8901c" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/b9126bad-1c25-4004-9eb4-a8b460265156" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/dddf9709-c988-43e4-aeaa-4fc39c902478" />
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/89d3eb87-0e8d-469f-941a-6e5c5939874b" />
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/1e4c8160-8f97-4364-a608-87d870fb0463" />
+
+-	Choose VMware workstation pro 25H2 for windows, then “25H2”, “agree to the term conditions”
+-	Click download button (additional verification details required before downloading the software”yes”, just fill it), “agree” and “submit”
+-	Again redirect to download button, just hit it and you software is being downloaded, verify it from download history.
+-	Congratulation, we have downloaded the VMware software.
+<img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/50a198b9-92df-4650-a334-e72a00f9f2c8" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/27f698dd-1b7e-4c34-b0e5-25bd71a89c0c" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/382d9b9f-c757-4bb6-9efc-3ea448c513cf" />
+<img width="975" height="508" alt="image" src="https://github.com/user-attachments/assets/557121fd-6227-44cb-a148-84db2438e773" />
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/e77214e3-2ac1-4b2c-a3b6-ed3eee022535" />
+<img width="975" height="514" alt="image" src="https://github.com/user-attachments/assets/c06b8705-9a05-4950-9175-e44539a469ed" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/a54fcd7e-e169-4a10-8701-7e86237c7c1c" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/46885a6d-6efe-4c12-8958-cae1fb36a528" />
+<img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/489ad143-8689-4245-bbfa-6e51ff696f9f" />
+
+**4.1 VMware Installation steps:** <br>
+-	Double click on VMware setup (a pop windows appears, just click on “Yes”)
+-	Hit “Next”, accept license agreement, “Next”, again “Next”
+-	In custom setup, we will change the default installation locations, create a new folder within E:\ drive(vmware), Next then OK
+
+<img width="975" height="507" alt="image" src="https://github.com/user-attachments/assets/036a4c22-bf90-4402-8915-379cbca045e7" />
+<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/e3c59b2e-6921-40f8-b46c-0de9cc862c89" />
+<img width="975" height="770" alt="image" src="https://github.com/user-attachments/assets/e194e882-80ec-412f-849c-ae8a8caedee2" />
+<img width="975" height="770" alt="image" src="https://github.com/user-attachments/assets/e0829df0-030e-484a-bfa6-8d7127403bb3" />
+<img width="975" height="760" alt="image" src="https://github.com/user-attachments/assets/749f2487-a244-456d-858a-9da3cc120546" />
+<img width="975" height="768" alt="image" src="https://github.com/user-attachments/assets/8d0d0a3e-8edd-4dab-b36a-e95daf3ddcfe" />
+<img width="975" height="766" alt="image" src="https://github.com/user-attachments/assets/21b33f5a-4e2a-4a35-b408-824c466e9b9c" />
+<img width="975" height="771" alt="image" src="https://github.com/user-attachments/assets/2099b4a0-75c8-47cb-944e-f187458ee931" />
+<img width="975" height="768" alt="image" src="https://github.com/user-attachments/assets/424b4336-c133-4127-92e5-e870468be033" />
+<img width="975" height="775" alt="image" src="https://github.com/user-attachments/assets/dbaa63fe-fc7a-42c9-8898-9e4b0e21d40f" />
+<img width="975" height="662" alt="image" src="https://github.com/user-attachments/assets/213eba22-db23-46ae-a765-2017d8dd87bc" />
+
+-	Now, click on “Next”, again “Next”
+-	“Install”, wait for few minutes to let the installation completed, finally “finsih”
+-	you can open it from the shortcut menu created in the Windows desktop
+-	Now, we can make configuration setup for virtual Operating System such (Kali Linux, Ubuntu, Windows Server etc.)
+
+<img width="975" height="775" alt="image" src="https://github.com/user-attachments/assets/c41cda24-06ae-42bc-8de2-f1fe490365ee" />
+<img width="975" height="769" alt="image" src="https://github.com/user-attachments/assets/7a57a0bf-14ef-4d62-9eb8-50aa482e8ac9" />
+<img width="975" height="770" alt="image" src="https://github.com/user-attachments/assets/699ab815-3a21-4e4f-8235-85c03b4a200b" />
+<img width="975" height="763" alt="image" src="https://github.com/user-attachments/assets/88ed93e2-c268-4494-9fb1-b403cd2847b4" />
+<img width="975" height="771" alt="image" src="https://github.com/user-attachments/assets/5b4214df-d460-425c-903f-5e14c0fe98e6" />
+<img width="975" height="1223" alt="image" src="https://github.com/user-attachments/assets/f8fa85db-4755-4842-aa5c-9763d19d3aba" />
+<img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/5c83cde9-dd6a-4e72-9598-3d35ba3bb30b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
