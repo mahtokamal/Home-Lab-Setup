@@ -357,10 +357,11 @@
 
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/4f577be3-ee77-463f-baf6-a00b1d94c48c" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 4. VMware virtual machine downloading & installations
+# 2. VMware virtual machine downloading & installations
 
-**4.0 How to download Vmware into Windows OS?** <br>
+## 2.0 How to download Vmware into Windows OS? <br>
 
 -	Goto google search type “download vmware”, take you to the official site and click on Fusion and Workstation.
 -	As of march 2025, Vmware has changed a lot(you can read it from websites) [FAQs](https://www.vmware.com/docs/desktop-hypervisor-faqs)
@@ -416,7 +417,7 @@
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/46885a6d-6efe-4c12-8958-cae1fb36a528" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/489ad143-8689-4245-bbfa-6e51ff696f9f" />
 
-**4.1 VMware Installation steps:** <br>
+## 2.1 VMware Installation steps: <br>
 
 -	Double click on VMware setup (a pop windows appears, just click on “Yes”)
 -	Hit “Next”, accept license agreement, “Next”, again “Next”
