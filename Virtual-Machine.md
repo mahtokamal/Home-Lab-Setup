@@ -488,6 +488,12 @@
 
 **Hardware Configuration Setup**<br>
 
+- Firmware Type"UEFI", Next
+- No. of Processor "1", No. of cores per processor"2 or 4" (if unsure, visit to taks manager settings and review your CPU performance), Next
+- Virtual Memory RAM "4 GB at least for better performance", Next, Network Connection "NAT"(as per our requirement can be changed later), Next
+- I/O contrrollers "LSI logic SAS(Recommended)", Next, Disk Type "NVMe(Recommended)", Next,
+- Create a new virtual disk, Next, Disk Size "40 GB minimum", Split the virtual disk into multiple files, Next
+- Select recommeded Disk file, Next, Finish
 
 <img width="1920" height="969" alt="Screenshot (1677)" src="https://github.com/user-attachments/assets/149cf0aa-69cc-493f-8d5d-1418260d2373" />
 <img width="1920" height="987" alt="Screenshot (1678)" src="https://github.com/user-attachments/assets/0b269639-c619-44af-82e6-2199d5467ed9" />
