@@ -466,13 +466,10 @@
 **How to Install Windows Server 2025 in VMware machine** <br>
 
 - Double-Click on VMware Desktop App
-- Create a Vew Virtual Machine, then custom(advance) settings (you can choose Typical(recommended) settings), Next
-- Hardware compatibility "Workstation 25H2", Next, select "I will install the operatin system later", Next
-- Guest operating system "Microsoft Windows", Version "Window Server 2025", Next,
-- Now, choose a Cirtual OS location into local system, I selected Drive E:\(create a folder"vm-windows-server" and confirm it), Next
-  
-
-
+- Create a New Virtual Machine, then custom(advanced) settings (you can choose Typical(recommended) settings as well), Next
+- Hardware compatibility "Workstation 25H2", Next, select "I will install the operating system later", Next
+- Guest operating system "Microsoft Windows", Version "Windows Server 2025", Next,
+- Now, choose a Virtual OS location into local system, I selected Drive E:\(create a folder"vm-windows-server" and confirm it), Next
 
 <img width="1229" height="764" alt="Screenshot (1664)" src="https://github.com/user-attachments/assets/de1f2061-142a-42ee-99b5-1b6a02f97488" />
 <img width="1920" height="981" alt="Screenshot (1665)" src="https://github.com/user-attachments/assets/73071526-ca49-46fd-9faa-b8476c47d10c" />
