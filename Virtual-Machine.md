@@ -486,6 +486,21 @@
 <img width="1920" height="977" alt="Screenshot (1676)" src="https://github.com/user-attachments/assets/c69541e0-9453-4e56-b817-244d57227701" />
 
 
+**Hardware Configuration Setup**<br>
+
+
+<img width="1920" height="969" alt="Screenshot (1677)" src="https://github.com/user-attachments/assets/149cf0aa-69cc-493f-8d5d-1418260d2373" />
+<img width="1920" height="987" alt="Screenshot (1678)" src="https://github.com/user-attachments/assets/0b269639-c619-44af-82e6-2199d5467ed9" />
+<img width="1920" height="973" alt="Screenshot (1679)" src="https://github.com/user-attachments/assets/a133936c-0bfa-4c97-ae83-974d744fdec0" />
+<img width="1920" height="994" alt="Screenshot (1680)" src="https://github.com/user-attachments/assets/3ab8226d-f91d-4c91-93e4-9f1872dd33c3" />
+<img width="1920" height="977" alt="Screenshot (1681)" src="https://github.com/user-attachments/assets/8528c4fc-2925-4edb-b3b2-bfb4062de91e" />
+<img width="1920" height="977" alt="Screenshot (1682)" src="https://github.com/user-attachments/assets/fc118bdd-2d41-4387-a854-8bbc9b94dcfb" />
+<img width="1920" height="985" alt="Screenshot (1683)" src="https://github.com/user-attachments/assets/736299a2-eeec-458c-8d18-bde4be192f20" />
+<img width="1920" height="977" alt="Screenshot (1684)" src="https://github.com/user-attachments/assets/b63e7520-b4ec-4ddd-8973-f49267da1ddd" />
+<img width="1920" height="981" alt="Screenshot (1685)" src="https://github.com/user-attachments/assets/52b7df6c-47bd-4c43-8a6e-18de6cd23d43" />
+<img width="1920" height="983" alt="Screenshot (1686)" src="https://github.com/user-attachments/assets/5c000f85-1f86-48e1-b380-5fa6cefe8a81" />
+<img width="1920" height="981" alt="Screenshot (1687)" src="https://github.com/user-attachments/assets/65a05dab-14ca-4f83-b313-a960837fdd00" />
+<img width="1920" height="977" alt="Screenshot (1688)" src="https://github.com/user-attachments/assets/83d617b7-6561-4829-9a1d-d82a8683b9ae" />
 
 
 
