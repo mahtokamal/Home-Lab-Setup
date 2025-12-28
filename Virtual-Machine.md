@@ -417,7 +417,7 @@
 <img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/46885a6d-6efe-4c12-8958-cae1fb36a528" />
 <img width="975" height="512" alt="image" src="https://github.com/user-attachments/assets/489ad143-8689-4245-bbfa-6e51ff696f9f" />
 
-## 2.1 VMware Installation steps: <br>
+## 2.1 VMware Installation steps:
 
 -	Double click on VMware setup (a pop windows appears, just click on “Yes”)
 -	Hit “Next”, accept license agreement, “Next”, again “Next”
@@ -449,6 +449,7 @@
 <img width="975" height="513" alt="image" src="https://github.com/user-attachments/assets/5c83cde9-dd6a-4e72-9598-3d35ba3bb30b" />
 
 
+## 2.2 Windows Server 2025 Installation into VMware
 
 
 
