@@ -452,10 +452,10 @@
 ## 2.2 Windows Server 2025 Installation into VMware
 
 **How to Download Windows Server 2025** <br>
-- Type "download windows server" in the Google serach engine
+- Type "download windows server" in the Google search engine
 - then click on Windows server 2025 evaluation center
-- Now, click on 64-bit ISO download link, Save it and let the download finish autmoatically (I used Incognito mode, if you use normal mode, you might be asked for registration to download it)
-- To verify completion of download, visit the downlaod location into your system
+- Now, click on 64-bit ISO download link, Save it and let the download finish automatically (I used Incognito mode, if you use normal mode, you might be asked for registration to download it)
+- To verify download completion, visit the download location into your system
   
 <img width="1920" height="1009" alt="Screenshot (1659)" src="https://github.com/user-attachments/assets/a2c45085-e201-4fd3-ae4b-ef3d3ab1059e" />
 <img width="1920" height="1018" alt="Screenshot (1660)" src="https://github.com/user-attachments/assets/df16fa25-8074-4a17-a974-9b64526a9bfb" />
@@ -464,6 +464,14 @@
 <img width="1920" height="1080" alt="Screenshot (1663)" src="https://github.com/user-attachments/assets/c4099a93-a2e1-4b89-9134-7f48eccf6c8c" />
 
 **How to Install Windows Server 2025 in VMware machine** <br>
+
+- Double-Click on VMware Desktop App
+- Create a Vew Virtual Machine, then custom(advance) settings (you can choose Typical(recommended) settings), Next
+- Hardware compatibility "Workstation 25H2", Next, select "I will install the operatin system later", Next
+- Guest operating system "Microsoft Windows", Version "Window Server 2025", Next,
+- Now, choose a Cirtual OS location into local system, I selected Drive E:\(create a folder"vm-windows-server" and confirm it), Next
+  
+
 
 
 <img width="1229" height="764" alt="Screenshot (1664)" src="https://github.com/user-attachments/assets/de1f2061-142a-42ee-99b5-1b6a02f97488" />
