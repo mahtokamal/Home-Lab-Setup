@@ -451,13 +451,46 @@
 
 ## 2.2 Windows Server 2025 Installation into VMware
 
+**How to Download Windows Server 2025** <br>
+- Type "download windows server" in the Google serach engine
+- then click on Windows server 2025 evaluation center
+- Now, click on 64-bit ISO download link, Save it and let the download finish autmoatically (I used Incognito mode, if you use normal mode, you might be asked for registration to download it)
+- To verify completion of download, visit the downlaod location into your system
+  
 <img width="1920" height="1009" alt="Screenshot (1659)" src="https://github.com/user-attachments/assets/a2c45085-e201-4fd3-ae4b-ef3d3ab1059e" />
 <img width="1920" height="1018" alt="Screenshot (1660)" src="https://github.com/user-attachments/assets/df16fa25-8074-4a17-a974-9b64526a9bfb" />
 <img width="1920" height="1018" alt="Screenshot (1661)" src="https://github.com/user-attachments/assets/1093b94a-d868-41de-8f41-7e55ac23a63a" />
 <img width="1920" height="998" alt="Screenshot (1662)" src="https://github.com/user-attachments/assets/a4d867c6-a6ae-4990-9f35-ec0ef8cb3038" />
 <img width="1920" height="1080" alt="Screenshot (1663)" src="https://github.com/user-attachments/assets/c4099a93-a2e1-4b89-9134-7f48eccf6c8c" />
 
+**How to Install Windows Server 2025 in VMware machine** <br>
+
+
 <img width="1229" height="764" alt="Screenshot (1664)" src="https://github.com/user-attachments/assets/de1f2061-142a-42ee-99b5-1b6a02f97488" />
+<img width="1920" height="981" alt="Screenshot (1665)" src="https://github.com/user-attachments/assets/73071526-ca49-46fd-9faa-b8476c47d10c" />
+<img width="1920" height="983" alt="Screenshot (1666)" src="https://github.com/user-attachments/assets/73b21fb5-d681-4c03-86ae-706f05694cc8" />
+<img width="1920" height="979" alt="Screenshot (1667)" src="https://github.com/user-attachments/assets/1339e2e9-90d6-45b8-b89a-a9067ba9dc55" />
+<img width="1920" height="972" alt="Screenshot (1668)" src="https://github.com/user-attachments/assets/2b6aaa33-1357-4d99-9e41-a2c1f8ea804b" />
+<img width="1920" height="983" alt="Screenshot (1669)" src="https://github.com/user-attachments/assets/62491ac9-00cd-4a7c-8333-3b327f759c19" />
+<img width="1920" height="979" alt="Screenshot (1670)" src="https://github.com/user-attachments/assets/0b53c57d-c85f-44fa-8586-7a375a2a00d9" />
+<img width="1920" height="975" alt="Screenshot (1671)" src="https://github.com/user-attachments/assets/f72d4d28-d884-475e-8370-7e037b9d3fad" />
+<img width="1920" height="977" alt="Screenshot (1672)" src="https://github.com/user-attachments/assets/50eab93e-49e1-432b-8911-10f5c8b360c8" />
+<img width="1920" height="972" alt="Screenshot (1673)" src="https://github.com/user-attachments/assets/d519349e-1cd6-4b69-90d0-f251b1267809" />
+<img width="1920" height="975" alt="Screenshot (1674)" src="https://github.com/user-attachments/assets/7783e268-cb50-4021-8df0-8698bf9d982d" />
+<img width="1920" height="968" alt="Screenshot (1675)" src="https://github.com/user-attachments/assets/6e8a731c-ebed-4eaf-9161-de6d6fea5490" />
+<img width="1920" height="977" alt="Screenshot (1676)" src="https://github.com/user-attachments/assets/c69541e0-9453-4e56-b817-244d57227701" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
