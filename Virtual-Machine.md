@@ -555,7 +555,8 @@
 <img width="1920" height="972" alt="Screenshot (1722)" src="https://github.com/user-attachments/assets/e868fe47-9101-4698-89fc-3878c16e6f9c" />
 <img width="1920" height="975" alt="Screenshot (1723)" src="https://github.com/user-attachments/assets/d45fc75e-22f5-4dc0-b143-329b8f8ddc8c" />
 <img width="1920" height="966" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/04d8a816-bc03-49ad-8789-6a71bc8b3b40" />
-![Uploading Screenshot (1726).png…]()
+<img width="1920" height="979" alt="Screenshot (1726)" src="https://github.com/user-attachments/assets/1ffecc1a-c22a-45ae-a534-567493cb46db" />
+
 
 
 
