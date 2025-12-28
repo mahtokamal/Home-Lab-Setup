@@ -451,6 +451,18 @@
 
 ## 2.2 Windows Server 2025 Installation into VMware
 
+<img width="1920" height="1009" alt="Screenshot (1659)" src="https://github.com/user-attachments/assets/a2c45085-e201-4fd3-ae4b-ef3d3ab1059e" />
+<img width="1920" height="1018" alt="Screenshot (1660)" src="https://github.com/user-attachments/assets/df16fa25-8074-4a17-a974-9b64526a9bfb" />
+<img width="1920" height="1018" alt="Screenshot (1661)" src="https://github.com/user-attachments/assets/1093b94a-d868-41de-8f41-7e55ac23a63a" />
+<img width="1920" height="998" alt="Screenshot (1662)" src="https://github.com/user-attachments/assets/a4d867c6-a6ae-4990-9f35-ec0ef8cb3038" />
+<img width="1920" height="1080" alt="Screenshot (1663)" src="https://github.com/user-attachments/assets/c4099a93-a2e1-4b89-9134-7f48eccf6c8c" />
+
+<img width="1229" height="764" alt="Screenshot (1664)" src="https://github.com/user-attachments/assets/de1f2061-142a-42ee-99b5-1b6a02f97488" />
+
+
+
+
+
 
 
 
