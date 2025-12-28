@@ -510,7 +510,8 @@
 
 
 **Installation Steps**<br>
--
+- To proceed with installations, goto Windows server 2025 VM setup, Open CD/DVD (SATA settings), select use ISO image file and select downlaod windows server iso file, click "Open", then "OK"
+- click on "Power on this virtual machine", some pop-ups might come on the way(just ignore it), Select quickly when "Press any key to boot from CD or DVD" appears
 <img width="1920" height="975" alt="Screenshot (1689)" src="https://github.com/user-attachments/assets/0562302f-dff8-41cd-9762-7b773900c317" />
 <img width="1920" height="1009" alt="Screenshot (1690)" src="https://github.com/user-attachments/assets/c6345519-62dd-4f20-bf6b-a6ec02e2af47" />
 <img width="1920" height="1009" alt="Screenshot (1691)" src="https://github.com/user-attachments/assets/c46cec11-49e0-4fb2-8b3b-6a35fb8ddf3c" />
@@ -519,13 +520,57 @@
 <img width="1920" height="985" alt="Screenshot (1694)" src="https://github.com/user-attachments/assets/e00c6569-7601-48d2-93a0-25a7a9fb278c" />
 <img width="1920" height="983" alt="Screenshot (1703)" src="https://github.com/user-attachments/assets/f366b29e-ae64-4179-a2ce-c882b3134ff0" />
 
-**If error occurs** <br>
+**Common errors fixing during installtaion process** <br>
 
--
+- if errors " + EFI Newtork.." Time out shows, just follows these settings
+- Restart Guest OS again, try to press the key immedaitely
+- Visit CD/DVD (SATA settings), make sure to ticked check box "Connect at Power on", OK (Now, it should works)
+- not then, try to change the firmware type settings to BIOS/UEFI (if not selected and unchecked secure boot)
 <img width="1920" height="1005" alt="Screenshot (1695)" src="https://github.com/user-attachments/assets/d9da7411-c59e-4e9d-b8c6-13abebd15a24" />
 <img width="1920" height="1009" alt="Screenshot (1696)" src="https://github.com/user-attachments/assets/8056a243-6b79-4fa0-a895-8c3da1136f44" />
 <img width="1920" height="994" alt="Screenshot (1699)" src="https://github.com/user-attachments/assets/17515c62-0dce-45b6-a2f1-dacd03223120" />
 <img width="1920" height="1000" alt="Screenshot (1700)" src="https://github.com/user-attachments/assets/e77c26e9-632a-48d5-a2bb-9bc90d7bc5f2" />
+
+- After troubleshooting the issues, a blank screen would come, just wait few seconds
+- 
+
+
+<img width="1920" height="981" alt="Screenshot (1704)" src="https://github.com/user-attachments/assets/a475d959-2b7a-4be8-81c8-32fce74826b7" />
+<img width="1920" height="981" alt="Screenshot (1705)" src="https://github.com/user-attachments/assets/7682dedc-8586-4c2a-acef-58f5af68d1d7" />
+<img width="1920" height="947" alt="Screenshot (1707)" src="https://github.com/user-attachments/assets/ecb7d0e6-0d87-4143-b2db-d2b808acb008" />
+<img width="1920" height="981" alt="Screenshot (1708)" src="https://github.com/user-attachments/assets/ace21853-b5e7-4efb-8907-a280ef2ba299" />
+<img width="1920" height="975" alt="Screenshot (1709)" src="https://github.com/user-attachments/assets/1547527d-da8c-4879-8d7d-bb27b3a23b28" />
+<img width="1920" height="1000" alt="Screenshot (1710)" src="https://github.com/user-attachments/assets/33fb60a7-f038-4931-b93a-d754aec5476e" />
+<img width="1920" height="970" alt="Screenshot (1711)" src="https://github.com/user-attachments/assets/aeb20e2e-5e4e-4c39-a3cd-f874fee6855c" />
+<img width="1920" height="975" alt="Screenshot (1712)" src="https://github.com/user-attachments/assets/17a6f016-73f1-482a-a9ab-2fa21a7b6919" />
+<img width="1920" height="962" alt="Screenshot (1714)" src="https://github.com/user-attachments/assets/34a757a8-8832-4fe2-b5bf-8cd08b3ff9d9" />
+<img width="1920" height="979" alt="Screenshot (1715)" src="https://github.com/user-attachments/assets/812ba696-8c4c-46d0-8b86-099fa95c5efd" />
+<img width="1920" height="977" alt="Screenshot (1716)" src="https://github.com/user-attachments/assets/c85db0f5-9b6a-4923-afdc-4ce883c26dc6" />
+<img width="1920" height="972" alt="Screenshot (1717)" src="https://github.com/user-attachments/assets/7f79411b-8193-4e96-9989-31da5379f90b" />
+<img width="1920" height="964" alt="Screenshot (1718)" src="https://github.com/user-attachments/assets/d959c38e-5176-43ad-b032-f186326dea9a" />
+<img width="1920" height="970" alt="Screenshot (1720)" src="https://github.com/user-attachments/assets/b68fd6b8-47d3-4602-a63f-253843a33878" />
+
+<img width="1920" height="970" alt="Screenshot (1721)" src="https://github.com/user-attachments/assets/c6f5808c-e194-4d81-a82f-0fc5d4ac53a4" />
+
+<img width="1920" height="972" alt="Screenshot (1722)" src="https://github.com/user-attachments/assets/e868fe47-9101-4698-89fc-3878c16e6f9c" />
+<img width="1920" height="975" alt="Screenshot (1723)" src="https://github.com/user-attachments/assets/d45fc75e-22f5-4dc0-b143-329b8f8ddc8c" />
+<img width="1920" height="966" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/04d8a816-bc03-49ad-8789-6a71bc8b3b40" />
+![Uploading Screenshot (1726).png…]()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
