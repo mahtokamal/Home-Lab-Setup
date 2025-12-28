@@ -532,7 +532,12 @@
 <img width="1920" height="1000" alt="Screenshot (1700)" src="https://github.com/user-attachments/assets/e77c26e9-632a-48d5-a2bb-9bc90d7bc5f2" />
 
 - After troubleshooting the issues, a blank screen would come, just wait few seconds
-- 
+- A new window wizard shown for language and Time settings "English", Next, select keyword settings "US", Next, some settings will be done automatically,
+- Select OS image "Windows Server 2025 Standard Evaluation(Desktop)", Next, Accept
+- Now select disk location(by default),Next, Install (wait for few minutes), under customize settings "Create passwords for Admininstrator users", click "Finish"
+- CTRL + ALT + DEL, then enter password for Administrator, Accept
+- A server manager dashboard will be shown, Exit it, then return to Windows Server 2025 Desktop 
+- Congratulations! 🎉👏🎊 we have installed the windows server 2025 into vmware.
 
 
 <img width="1920" height="981" alt="Screenshot (1704)" src="https://github.com/user-attachments/assets/a475d959-2b7a-4be8-81c8-32fce74826b7" />
@@ -557,7 +562,7 @@
 <img width="1920" height="966" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/04d8a816-bc03-49ad-8789-6a71bc8b3b40" />
 <img width="1920" height="979" alt="Screenshot (1726)" src="https://github.com/user-attachments/assets/1ffecc1a-c22a-45ae-a534-567493cb46db" />
 
-
+## 2.3
 
 
 
