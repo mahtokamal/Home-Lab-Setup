@@ -562,7 +562,7 @@
 <img width="1920" height="966" alt="Screenshot (1724)" src="https://github.com/user-attachments/assets/04d8a816-bc03-49ad-8789-6a71bc8b3b40" />
 <img width="1920" height="979" alt="Screenshot (1726)" src="https://github.com/user-attachments/assets/1ffecc1a-c22a-45ae-a534-567493cb46db" />
 
-## 2.3
+## 2.3 Kali Linux Setup and Installations for VMware
 
 
 
