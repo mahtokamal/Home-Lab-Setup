@@ -566,7 +566,15 @@
 
 **Kali Linux Virtual OS Setup**
 
-- 
+- On VMware click "Create a New Virtual Machine" -> Custom (advanced), Next -> Hardware compatibility, Next.
+- Select "I will install the operating system later." -> Next -> Guest Operating System "Linux", version "Debian 13.x 64-bit for Kali" -> Next.
+- Virtual machine name "Kali-VM", select Location "E:\Kali-VM" -> Next -> select processor(if not sure, check avaialble from taskmanager) -> Next.
+- Memory "at least 4GB" -> Next -> Network Type "NAT", Next -> Select I/O controllers typer "LSI logic" -> Next.
+- Select a Disk Type "SCSI(Recommended)" -> Next -> Disk "Create a new virtual disk", Next -> Disk Size "45 GB or at least 20 GB".
+- Now, Split virtual disk into multiple files -> Next -> save -> Next -> Finish.
+- click on Kali edit virtual machine settings -> click processors -> under virtualization engine tab select both virtualize intel VT-x/EPT or AMD-V/RVI and virtualize IOMMU (IO Memory management unit).
+- Again, CD/DVD (SATA) -> select use ISO image file and click OK.
+- Great!!👏👏🍻🎊 We have configured our initial hardware settings for kali virtual OS.
 
 <img width="1920" height="985" alt="Screenshot (1842)" src="https://github.com/user-attachments/assets/521b3d7d-7324-47e3-b844-dfccc266f095" />
 <img width="1920" height="992" alt="Screenshot (1843)" src="https://github.com/user-attachments/assets/f2caef56-0b4f-44f5-a2ee-24504078fc0a" />
@@ -602,6 +610,7 @@
 - wait for few seconds -> install GRUB bootloaders (yes, then continue) -> select device partition /dev/sda, then continue and just wait to finish the installation.
 - continue, to reboot the system -> Next, Kali GNU/Linux -> enter username and passwords
 - open terminal and run sudo apt update  && sudo apt upgrade -y (to update the packages)
+- Congratulations! 🎉👏🎊 we have installed Kali Linux into vmware.
 
 <img width="1920" height="972" alt="Screenshot (1863)" src="https://github.com/user-attachments/assets/16202e3c-3492-4c93-b704-9ff7fd379ce5" />
 <img width="1920" height="975" alt="Screenshot (1864)" src="https://github.com/user-attachments/assets/cf7431d0-6d21-4fa2-8e8c-a1e1aba8c221" />
