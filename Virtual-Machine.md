@@ -564,8 +564,31 @@
 
 ## 2.3 Kali Linux Setup and Installations for VMware
 
-**Kali Linux Setup**
+**Kali Linux Virtual OS Setup**
 
+- 
+
+<img width="1920" height="985" alt="Screenshot (1842)" src="https://github.com/user-attachments/assets/521b3d7d-7324-47e3-b844-dfccc266f095" />
+<img width="1920" height="992" alt="Screenshot (1843)" src="https://github.com/user-attachments/assets/f2caef56-0b4f-44f5-a2ee-24504078fc0a" />
+<img width="1920" height="983" alt="Screenshot (1844)" src="https://github.com/user-attachments/assets/e7f058e5-efba-4083-9ebc-18061d907ea3" />
+<img width="1920" height="975" alt="Screenshot (1845)" src="https://github.com/user-attachments/assets/10185e3d-614c-4624-823c-ca6e60df85e7" />
+<img width="1920" height="975" alt="Screenshot (1846)" src="https://github.com/user-attachments/assets/8f4e7bc5-0db4-4211-ae5f-e9644f6c889a" />
+<img width="1920" height="985" alt="Screenshot (1847)" src="https://github.com/user-attachments/assets/51af93b2-6cd6-49f9-9bf6-3d005054c343" />
+<img width="1920" height="975" alt="Screenshot (1848)" src="https://github.com/user-attachments/assets/71ee1e18-4aa1-410e-a315-501c31efae6e" />
+<img width="1920" height="977" alt="Screenshot (1849)" src="https://github.com/user-attachments/assets/a153c70d-d122-45aa-b3c1-64df0285a309" />
+<img width="1920" height="1000" alt="Screenshot (1850)" src="https://github.com/user-attachments/assets/b5aa5eda-eb18-433c-b559-9255f916c135" />
+<img width="1920" height="977" alt="Screenshot (1851)" src="https://github.com/user-attachments/assets/1b5f7e25-31d1-41ff-b299-6df2b979cd63" />
+<img width="1920" height="979" alt="Screenshot (1852)" src="https://github.com/user-attachments/assets/a1df5ff3-9d84-482b-9345-9f4766ab18f6" />
+<img width="1920" height="982" alt="Screenshot (1853)" src="https://github.com/user-attachments/assets/829f30e2-7a71-4387-adc3-b746ad6a1f05" />
+<img width="1920" height="979" alt="Screenshot (1854)" src="https://github.com/user-attachments/assets/14a6e1f1-e51f-4d6e-a518-65107dfad92e" />
+<img width="1920" height="981" alt="Screenshot (1855)" src="https://github.com/user-attachments/assets/62c3ff94-db6a-40c1-9f0f-07d970570bc7" />
+<img width="1920" height="985" alt="Screenshot (1856)" src="https://github.com/user-attachments/assets/c5fc87ad-5dde-43b1-82b4-8b285da2cb0b" />
+<img width="1920" height="985" alt="Screenshot (1857)" src="https://github.com/user-attachments/assets/490251d9-569f-4378-856f-58aa3db4aa1f" />
+<img width="1920" height="972" alt="Screenshot (1858)" src="https://github.com/user-attachments/assets/23b4fa92-854f-4ac5-8e95-4bdc91505ebb" />
+<img width="1920" height="1080" alt="Screenshot (1859)" src="https://github.com/user-attachments/assets/28a37388-217d-40a4-b0d0-30098778b3c2" />
+<img width="1920" height="1013" alt="Screenshot (1860)" src="https://github.com/user-attachments/assets/343cc91e-dbdd-464a-885c-8052867bd45b" />
+<img width="1920" height="1007" alt="Screenshot (1861)" src="https://github.com/user-attachments/assets/34b35f79-1044-4ad4-a32a-595c414a305d" />
+<img width="1920" height="1011" alt="Screenshot (1862)" src="https://github.com/user-attachments/assets/af00ad20-23c2-468e-aa8d-7cd206c91a28" />
 
 
 
