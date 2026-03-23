@@ -565,10 +565,20 @@
 ## 2.3 Kali Linux Setup and Installations for VMware
 
 **Kali Linux Setup**
-- 
+
+
 
 
 **Installation Steps**<br>
+
+- click "Power on this virtual machine" -> Graphic install(then wait for few minutes) -> select your location, language and keyboard language then continue
+- Wait again for some minutes -> configure the network Hostname = kali, then continue -> skipped the domain -> set up users and passwords (kamal), then continue.
+- create passwords, continue -> wait for moments -> Partition disks "guided use entire disk" then continue -> partition disk (by default), continue.
+- partition disk (all files in one partition), continue -> Finish partitioning and write changes to disk, continue -> write changes to the disk(select yes, then continue).
+- let the installation setup run automatically -> software selection (let it done default, but make sure you have selected desktop environment) -> continue.
+- wait for few seconds -> install GRUB bootloaders (yes, then continue) -> select device partition /dev/sda, then continue and just wait to finish the installation.
+- continue, to reboot the system -> Next, Kali GNU/Linux -> enter username and passwords
+- open terminal and run sudo apt update  && sudo apt upgrade -y (to update the packages)
 
 <img width="1920" height="972" alt="Screenshot (1863)" src="https://github.com/user-attachments/assets/16202e3c-3492-4c93-b704-9ff7fd379ce5" />
 <img width="1920" height="975" alt="Screenshot (1864)" src="https://github.com/user-attachments/assets/cf7431d0-6d21-4fa2-8e8c-a1e1aba8c221" />
